@@ -1,0 +1,3 @@
+Host *amazonaws.com
+IdentityFile ~/.ssh/ankurviharproperty.pem
+User ec2-user
